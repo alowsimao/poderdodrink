@@ -1,0 +1,41 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    color: #555555;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333333;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #ffffff;
+}
+
+header a {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.section {
+    padding: 40px 20px;
+}
+
+.section-title {
+    font-size: 2em;
+    color: #333333;
+    margin-bottom: 20px;
+}
+
+.section p {
+    font-size: 1.2em;
+}
+
+.button {
+    background-color: #e67e22;
+    color: #ffffff;
+    padding
